@@ -24,16 +24,16 @@ This project demonstrates how to collect company data through web scraping, stor
    ```bash
    git clone https://github.com/Toancodewell/Mongodb_web_scraping.git
 ## 📊 Features
-Automated data collection from web sources
+- Automated data collection from web sources
 
-MongoDB storage and organization of company data
+- MongoDB storage and organization of company data
 
-Aggregation-based analysis:
+- Aggregation-based analysis:
 
-Industries with highest average revenue
-
-Industries with the fastest revenue growth
-
-Industries with the most employees on average
+  Industries with highest average revenue
+  
+  Industries with the fastest revenue growth
+  
+  Industries with the most employees on average
 
 
